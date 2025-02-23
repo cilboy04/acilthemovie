@@ -71,7 +71,7 @@ searchForm.addEventListener("submit", (event) => {
     }
 })
 
-navbar-tabs.addEventListener("click", () => {
+title1.addEventListener("click", () => {
     location.reload()
 })
 
