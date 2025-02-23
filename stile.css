@@ -119,11 +119,11 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-    background: #0a0a10
+    background: lightblue
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #8000ff
+    background-color: skyblue
 }
 
 .cursor-inner {
@@ -595,7 +595,7 @@ noscript {
 
 #name,
 #work {
-    font-size: 8rem;
+    font-size: 4rem;
     width: fit-content
 }
 
